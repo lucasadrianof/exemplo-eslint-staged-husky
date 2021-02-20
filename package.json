@@ -1,0 +1,9 @@
+{
+  "name": "exemplo-eslint-staged-husky",
+  "version": "1.0.0",
+  "description": "Repositório de exemplo de configuração do ESLint + Lint-staged + Husky",
+  "main": "index.js",
+  "repository": "https://github.com/lucasadrianof/exemplo-eslint-staged-husky.git",
+  "author": "Lucas Felicio Adriano <lucas.f.adriano@hotmail.com>",
+  "license": "MIT"
+}
